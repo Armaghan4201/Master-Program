@@ -1,0 +1,154 @@
+{
+  "QLabel": [
+    {
+      "name": "smticon",
+      "pixmap": "Qss/icons/icons/custom/smt_logo.png"
+    },
+    {
+      "name": "smticon_2",
+      "pixmap": "Qss/icons/icons/custom/smt_logo.png"
+    },
+    {
+      "name": "logging_in_label",
+      "pixmap": "Qss/icons/icons/custom/Logging-you-in.png"
+    },
+    {
+      "name": "loading_label_icon",
+      "pixmap": "Qss/icons/icons/custom/loading-dots-small.png"
+    },
+    {
+      "name": "smticon_3",
+      "pixmap": "Qss/icons/icons/custom/smt_logo.png"
+    },
+    {
+      "name": "creating_your_account_label",
+      "pixmap": "Qss/icons/icons/custom/Creating-your-account.png"
+    },
+    {
+      "name": "loading_label_2",
+      "pixmap": "Qss/icons/icons/custom/loading-dots-small.png"
+    },
+    {
+      "name": "smt_logo_label",
+      "pixmap": "Qss/icons/icons/custom/smt_logo_2.png"
+    },
+    {
+      "name": "upload_icon_label",
+      "pixmap": "Qss/icons/icons/custom/upload-icon.png"
+    },
+    {
+      "name": "generating_text_label",
+      "pixmap": "Qss/icons/icons/custom/Generating.png"
+    },
+    {
+      "name": "generating_icon_label",
+      "pixmap": "Qss/icons/icons/custom/bi_stars_gradient.png"
+    },
+    {
+      "name": "generating_label_in_firetest",
+      "pixmap": "Qss/icons/icons/custom/Generating.png"
+    },
+    {
+      "name": "generating_icon_in_firetest",
+      "pixmap": "Qss/icons/icons/custom/bi_stars_gradient.png"
+    }
+  ],
+  "QPushButton": [
+    {
+      "name": "logout_in_sidepanel_pushButton",
+      "icon": "Qss/icons/icons/custom/logout-icon.png"
+    },
+    {
+      "name": "choose_folder_icon_pushButton",
+      "icon": "Qss/icons/icons/custom/select-folder-icon.png"
+    },
+    {
+      "name": "generate_icon_pushButton_in_smt",
+      "icon": "Qss/icons/icons/custom/generate-stars.png"
+    },
+    {
+      "name": "cross_pushButton_in_userinput",
+      "icon": "Qss/icons/icons/feather/x.png"
+    },
+    {
+      "name": "cross_pushButton_in_files_created",
+      "icon": "Qss/icons/icons/feather/x.png"
+    },
+    {
+      "name": "back_arrow_in_buildsheet",
+      "icon": "Qss/icons/icons/feather/arrow-left.png"
+    },
+    {
+      "name": "back_pushButton_in_share_page",
+      "icon": "Qss/icons/icons/feather/arrow-left.png"
+    },
+    {
+      "name": "chooseinputfolder_icon_2",
+      "icon": "Qss/icons/icons/custom/upload-icon.png"
+    },
+    {
+      "name": "chooseoutputfolder_icon_2",
+      "icon": "Qss/icons/icons/custom/upload-icon.png"
+    },
+    {
+      "name": "generate_icon_pushButton_in_batchtest",
+      "icon": "Qss/icons/icons/custom/generate-stars.png"
+    },
+    {
+      "name": "choosefile_icon",
+      "icon": "Qss/icons/icons/custom/upload-icon.png"
+    },
+    {
+      "name": "calender_pushButton",
+      "icon": "Qss/icons/icons/custom/calender.svg"
+    },
+    {
+      "name": "generate_icon_pushButton_in_singletest",
+      "icon": "Qss/icons/icons/custom/generate-stars.png"
+    },
+    {
+      "name": "night_pushButton_in_filtered",
+      "icon": "Qss/icons/icons/custom/moon1.png"
+    },
+    {
+      "name": "Theme_toggle_pushButton_in_filtered",
+      "icon": "Qss/icons/icons/custom/toggle_off.png"
+    },
+    {
+      "name": "day_pushButton_in_filtered",
+      "icon": "Qss/icons/icons/custom/weather.png"
+    },
+    {
+      "name": "night_pushButton_in_unfiltered",
+      "icon": "Qss/icons/icons/custom/moon1.png"
+    },
+    {
+      "name": "Theme_toggle_pushButton_in_unfiltered",
+      "icon": "Qss/icons/icons/custom/toggle_off.png"
+    },
+    {
+      "name": "day_pushButton_in_unfiltered",
+      "icon": "Qss/icons/icons/custom/weather.png"
+    },
+    {
+      "name": "back_pushButton",
+      "icon": "Qss/icons/icons/feather/arrow-left.png"
+    },
+    {
+      "name": "toggle_pushButton",
+      "icon": "Qss/icons/icons/feather/chevron-left.png"
+    },
+    {
+      "name": "minimize_pushButton",
+      "icon": "Qss/icons/icons/feather/minus.png"
+    },
+    {
+      "name": "maximize_pushButton",
+      "icon": "Qss/icons/icons/feather/maximize.png"
+    },
+    {
+      "name": "close_pushButton",
+      "icon": "Qss/icons/icons/feather/x.png"
+    }
+  ]
+}

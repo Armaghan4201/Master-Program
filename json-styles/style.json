@@ -1,0 +1,35 @@
+{
+  "ShowLogs": true,
+  "CheckForMissingicons": false,
+
+  "QMainWindow": [
+    {
+      "tittle": "Master_UI"
+    }
+  ],
+  "QSettings": [
+    {
+      "ThemeSettings": [
+        {
+          "CustomTheme": [
+            {
+              "Background-color": "#121212",
+              "Text-color": "#FFFFFF",
+              "Accent-color": "#0000FF",
+              "Icons-color": null,
+              "Theme-name": "Default-theme",
+              "Default-Theme": false
+            }
+          ]
+        }
+      ],
+      "AppSettings": {
+        "OrginizationName": "Master_UI",
+        "ApplicationName": "Master_UI Company",
+        "OrginizationDormain": "Master_UI.org",
+        "GenerateIcons": false
+      }
+    }
+  ],
+  "QtBinding": "PySide6"
+}
