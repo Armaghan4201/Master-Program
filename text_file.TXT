@@ -1,0 +1,12 @@
+05/30/2024                                           JOHANSON DIELECTRICS, INC.                                        PAGE     1
+REPORT ID: WIP830                                    MO DESIGN WORK-IN-PROCESS
+
+DEPT:   4829  DESIGN REVIEW                   JDI PRODUCTS              MOVE **  09/20/2024  ** PACK DATE OR EARLIER THIS WEEK
+
+PART NUMBER            Mo#       So Item#   Loc Qty  BARS DIEL     DIEL  DIEL  INK   BOT   TOP  Pattern  Offset PACK DT DAYS PRI SC
+                                                                   LYRS  THICK
+
+SCDP502W102K4GV001E    433468-00 ENG-ALVAR    11,200   10 MLC362NB    .0   .00 ML981118.0    .0 0        0.000 07/16/17    2   5
+                                         ===========               ===== =====      ===== =====
+         Dept#   4829                      6,914,151               288.0           1460.1
+                                                                         35.91            158.0
